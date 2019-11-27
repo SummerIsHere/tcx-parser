@@ -1,0 +1,1 @@
+python 'Z:\prv_active\Health\Exercise\Exercise Logs\tcx-parser\parse_tcx.py' --folder 'Z:\prv_active\Health\Exercise\Exercise Logs\Polar Flow Exports' --output 'Z:\prv_active\Health\Exercise\Exercise Logs\master_exercise_log.csv' --keep
